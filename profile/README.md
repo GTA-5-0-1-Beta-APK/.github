@@ -8,7 +8,7 @@
 
 | Category             |                                                                               |
 |----------------------|-----------------------------------------------------------------------------------------|
-| Game Overview        | GTA V is an open-world action game where players can explore the fictional city of Los Santos. |
+| Game Overview        | GTA V APK is an open-world action game where players can explore the fictional city of Los Santos. |
 | Version              | 0.1                                                                                  |
 | Operating System     | Android, iOS                                                                            |
 | Rating               | ⭐⭐⭐⭐☆ (4.5/5 from 735,996 votes)                                                           |
